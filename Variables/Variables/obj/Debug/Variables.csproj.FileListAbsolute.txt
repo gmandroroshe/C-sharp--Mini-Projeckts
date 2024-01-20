@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Variables\Variables\obj\Debug\Variables.pdb
