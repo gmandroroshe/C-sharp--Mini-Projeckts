@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\bin\Debug\Pass or Faild.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\bin\Debug\Pass or Faild.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\bin\Debug\Pass or Faild.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\obj\Debug\Pass or Faild.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\obj\Debug\Pass_or_Faild.Form1.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\obj\Debug\Pass_or_Faild.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\obj\Debug\Pass or Faild.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\obj\Debug\Pass or Faild.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Pass or Faild\Pass or Faild\obj\Debug\Pass or Faild.pdb
