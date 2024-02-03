@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\bin\Debug\Bithday Select.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\bin\Debug\Bithday Select.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\bin\Debug\Bithday Select.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\obj\Debug\Bithday Select.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\obj\Debug\Bithday_Select.Form1.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\obj\Debug\Bithday_Select.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\obj\Debug\Bithday Select.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\obj\Debug\Bithday Select.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Bithday Select\Bithday Select\obj\Debug\Bithday Select.pdb
