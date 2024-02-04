@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\bin\Debug\Color change.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\obj\Debug\Color change.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\obj\Debug\Color_change.Form1.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\obj\Debug\Color_change.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\obj\Debug\Color change.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\bin\Debug\Color change.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\bin\Debug\Color change.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\obj\Debug\Color change.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Color change\Color change\obj\Debug\Color change.pdb
