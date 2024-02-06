@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\bin\Debug\Student system.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\bin\Debug\Student.mdf
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\bin\Debug\Student_log.ldf
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\bin\Debug\Student system.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\bin\Debug\Student system.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\obj\Debug\Student system.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\obj\Debug\Student_system.Form1.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\obj\Debug\Student_system.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\obj\Debug\Student system.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\obj\Debug\Student system.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Student system\Student system\obj\Debug\Student system.pdb
