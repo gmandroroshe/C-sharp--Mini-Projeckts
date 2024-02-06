@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\bin\Debug\manegement form.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\bin\Debug\manegement form.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\bin\Debug\manegement form.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\obj\Debug\manegement form.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\obj\Debug\manegement_form.Form1.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\obj\Debug\manegement_form.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\obj\Debug\manegement form.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\obj\Debug\manegement form.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\manegement form\manegement form\obj\Debug\manegement form.pdb
