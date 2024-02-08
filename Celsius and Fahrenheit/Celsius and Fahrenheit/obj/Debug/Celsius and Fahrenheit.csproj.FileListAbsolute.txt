@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\bin\Debug\Celsius and Fahrenheit.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\bin\Debug\Celsius and Fahrenheit.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\bin\Debug\Celsius and Fahrenheit.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\obj\Debug\Celsius and Fahrenheit.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\obj\Debug\Celsius_and_Fahrenheit.Form1.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\obj\Debug\Celsius_and_Fahrenheit.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\obj\Debug\Celsius and Fahrenheit.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\obj\Debug\Celsius and Fahrenheit.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Celsius and Fahrenheit\Celsius and Fahrenheit\obj\Debug\Celsius and Fahrenheit.pdb
