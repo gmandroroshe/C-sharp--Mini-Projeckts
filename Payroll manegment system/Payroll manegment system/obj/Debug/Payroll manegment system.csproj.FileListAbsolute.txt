@@ -1,0 +1,32 @@
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\bin\Debug\Payroll manegment system.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\bin\Debug\Payroll manegment system.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\bin\Debug\Payroll manegment system.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll manegment system.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Form_Leaves.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Form_Monthly_Salary.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Form_Salary.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Employee_detels.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Form1.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Formmain.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll manegment system.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll manegment system.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll manegment system.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\bin\Debug\manegment system database.mdf
+C:\Users\user\Desktop\Unit_01PRO - Programming\C# Projeckts\Skills International\Payroll manegment system\Payroll manegment system\bin\Debug\manegment system database_log.ldf
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\bin\Debug\Payroll manegment system.exe.config
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll manegment system.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll manegment system.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\bin\Debug\Payroll manegment system.exe
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\bin\Debug\Payroll manegment system.pdb
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll manegment system.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Form_Leaves.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Form_Monthly_Salary.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Form_Salary.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Employee_detels.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Form1.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Formmain.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll_manegment_system.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\obj\Debug\Payroll manegment system.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\bin\Debug\system database.mdf
+C:\Users\user\Desktop\Unit_01PRO - Programming\Payroll manegment system\Payroll manegment system\bin\Debug\system database_log.ldf
